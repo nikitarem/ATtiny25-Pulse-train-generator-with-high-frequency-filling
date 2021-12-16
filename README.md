@@ -11,6 +11,8 @@ Application circuit diagram:
 ![Alt-текст](https://raw.githubusercontent.com/nikitarem/ATtiny25-Pulse-train-generator-with-high-frequency-filling/main/img/circuit.png "Output Circuit")
   
 # Components:
+DD1 = ATtiny25  
+
 **RESET circuit:**  
 R1 = 20 kOhm  
 C1 = 47 uF  
